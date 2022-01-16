@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 **[My Portfolio](https://ezifolio.com/public/RanaAbobakar)**
+- 👨‍💻 **[My Portfolio](https://abobakar.me)**
 
 - 📫 How to reach me **ranaabobakarit@gmail.com**
 

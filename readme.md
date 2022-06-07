@@ -62,12 +62,44 @@
 
 <br/>
 <br/>
+## <h1>✨ My Projects: <h1>
 
+<a href="https://github.com/abobakar-it/cpp-student-registration-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=cpp-student-registration-project&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/Cpp-UOG-Uni-Managment-Project-in-OOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Cpp-UOG-Uni-Managment-Project-in-OOP&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/abobakar-it/UOG-LMS-DSA-Project-in-Cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=UOG-LMS-DSA-Project-in-Cpp&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/Java-Script-code-w3School">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Java-Script-code-w3School&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/nodejs-sql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=nodejs-sql&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/collage-backend-relation-in-node-sql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=collage-backend-relation-in-node-sql&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/mongodb-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=mongodb-api&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abobakar-it/c-sharp-calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=c-sharp-calculator&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/tic_toc_toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=tic_toc_toe&theme=tokyonight" />
+</a>
+<br/>
+<br/>
 <a href="https://github.com/abobakar-it/github-readme-activity-graph"><img alt="abobakar-it Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abobakar-it&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abobakar-it" alt="abobakar-it" /></a> </p>
 
 

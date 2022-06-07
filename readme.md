@@ -86,12 +86,26 @@
 <a href="https://github.com/abobakar-it/mongodb-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=mongodb-api&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/abobakar-it/unit-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=unit-testing&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/create-spider-using-node.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=create-spider-using-node.js&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/socket.io-private-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=socket.io-private-chat&theme=tokyonight" />
+</a>
 <a href="https://github.com/abobakar-it/c-sharp-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=c-sharp-calculator&theme=tokyonight" />
 </a>
 <a href="https://github.com/abobakar-it/tic_toc_toe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=tic_toc_toe&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/rafay-shop-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=rafay-shop-project&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/Learn-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-Java&theme=tokyonight" />
 </a>
 <br/>
 <br/>

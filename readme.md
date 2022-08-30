@@ -80,9 +80,7 @@
 <a href="https://github.com/abobakar-it/create-spider-using-node.js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=create-spider-using-node.js&theme=tokyonight" />
 </a>
-<a href="https://github.com/abobakar-it/socket.io-private-chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=socket.io-private-chat&theme=tokyonight" />
-</a>
+
 <a href="https://github.com/abobakar-it/c-sharp-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=c-sharp-calculator&theme=tokyonight" />
 </a>

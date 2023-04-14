@@ -52,7 +52,7 @@
 <br/>
 ## <h1>✨ My Projects: <h1>
 
-    <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript">
+ <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-TypeScript&theme=tokyonight" />
 </a>
 <a href="https://github.com/abobakar-it/Learn-Docker">
@@ -67,7 +67,7 @@
     <a href="https://github.com/ABOBAKAR-IT/Files-share-App-using-Express">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Files-share-App-using-Express&theme=tokyonight" />
 </a>
-    <a href="https://github.com/ABOBAKAR-IT/Learn-GitHub-Action">
+ <a href="https://github.com/ABOBAKAR-IT/Learn-GitHub-Action">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-GitHub-Action&theme=tokyonight" />
 </a>
     <a href="https://github.com/ABOBAKAR-IT/Learn-Bash-Scripting">

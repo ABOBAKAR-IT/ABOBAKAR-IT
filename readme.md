@@ -52,6 +52,39 @@
 <br/>
 ## <h1>✨ My Projects: <h1>
 
+    <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-TypeScript&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/Learn-Docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-Docker&theme=tokyonight" />
+</a>
+     <a href="https://github.com/ABOBAKAR-IT/JavaScript-Algorithms-and-Data-Structures-free-code-camp-solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=JavaScript-Algorithms-and-Data-Structures-free-code-camp-solutions&theme=tokyonight" />
+</a>
+    <a href="https://github.com/ABOBAKAR-IT/learn-redux-toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=learn-redux-toolkit&theme=tokyonight" />
+</a>
+    <a href="https://github.com/ABOBAKAR-IT/Files-share-App-using-Express">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Files-share-App-using-Express&theme=tokyonight" />
+</a>
+    <a href="https://github.com/ABOBAKAR-IT/Learn-GitHub-Action">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-GitHub-Action&theme=tokyonight" />
+</a>
+    <a href="https://github.com/ABOBAKAR-IT/Learn-Bash-Scripting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-Bash-Scripting&theme=tokyonight" />
+</a>
+    <a href="https://github.com/ABOBAKAR-IT/JavaScript-socketIO-clint-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=JavaScript-socketIO-clint-code&theme=tokyonight" />
+</a>
+    <a href="https://github.com/abobakar-it/mongodb-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=mongodb-api&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/unit-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=unit-testing&theme=tokyonight" />
+</a>
+<a href="https://github.com/abobakar-it/create-spider-using-node.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=create-spider-using-node.js&theme=tokyonight" />
+</a>
 <a href="https://github.com/abobakar-it/cpp-student-registration-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=cpp-student-registration-project&theme=tokyonight" />
 </a>
@@ -71,16 +104,6 @@
 <a href="https://github.com/abobakar-it/collage-backend-relation-in-node-sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=collage-backend-relation-in-node-sql&theme=tokyonight" />
 </a>
-<a href="https://github.com/abobakar-it/mongodb-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=mongodb-api&theme=tokyonight" />
-</a>
-<a href="https://github.com/abobakar-it/unit-testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=unit-testing&theme=tokyonight" />
-</a>
-<a href="https://github.com/abobakar-it/create-spider-using-node.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=create-spider-using-node.js&theme=tokyonight" />
-</a>
-
 <a href="https://github.com/abobakar-it/c-sharp-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=c-sharp-calculator&theme=tokyonight" />
 </a>

@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **React.js Express.js TypeScript Mongodb**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 **[My Portfolio](https://abobakar.tech)**
+- 👨‍💻 **[My Portfolio](https://rana-abobakar.tech)**
 
 - 📫 How to reach me **ranaabobakarit@gmail.com**
 

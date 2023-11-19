@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **React.js Express.js TypeScript Mongodb**
 

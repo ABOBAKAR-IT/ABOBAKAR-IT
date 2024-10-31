@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 **[My Portfolio](https://rana-abobakar.tech)**
+- 👨‍💻 **[My Portfolio](https://abobakar.site)**
 
 - 📫 How to reach me **ranaabobakarit@gmail.com**
 

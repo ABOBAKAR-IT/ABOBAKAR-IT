@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RANA ABOBAKAR</h1>
-<h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate Software Engineer from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **AWS Connect**
 
-- 🌱 I’m currently learning **React.js Express.js TypeScript Mongodb**
+- 🌱 I’m currently learning **AWS Services, NestJs, Kubernates**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -18,15 +18,12 @@
 
 - ⚡ Fun fact **Learn New Technology and Read Books**
 
-## Connect with me:
-<p align="left">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rana.ranaabobakar.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana-abobakar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-abobakar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RANA_ABOBAKAR_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranaabobakarit@gmail.com) 
 
-<a href="https://linkedin.com/in/rana-abobakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-abobakar" height="30" width="40" /></a>
-<a href="https://dev.to/rana_abobakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rana_abobakar" height="30" width="40" /></a>
-<a href="https://instagram.com/ranaabobakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaabobakar" height="30" width="40" /></a>
-<a href="https://twitter.com/RANA_ABOBAKAR_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rana-abobakar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rana.ranaabobakar.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana-abobakar" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 💫 My🌟BEST🌟 SKILLS
 

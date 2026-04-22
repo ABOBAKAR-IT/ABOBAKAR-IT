@@ -1,195 +1,98 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- HERO -->
+<p align="center">
+  <img src="https://i.imgur.com/iXuL1HG.png" width="100%"/>
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RANA ABOBAKAR</h1>
-<h3 align="center">I'm a passionate Software Engineer from Pakistan.</h3>
+<h1 align="center">
+  Hi 👋, I'm RANA ABOBAKAR
+</h1>
 
+<h3 align="center">
+  🚀 Software Engineer | Backend & DevOps Enthusiast
+</h3>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **AWS Connect**
+- 🔭 Working on **AWS Connect**
+- 🌱 Learning **AWS, Kubernetes, NestJS**
+- 👯 Open to **Open Source Collaboration**
+- 👨‍💻 Portfolio: https://abobakar.site
+- 📫 Email: ranaabobakarit@gmail.com
+- ⚡ Fun fact: *I love learning new tech & reading books*
 
-- 🌱 I’m currently learning **AWS Services, NestJs, Kubernates**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 **[My Portfolio](https://abobakar.site)**
-
-- 📫 How to reach me **ranaabobakarit@gmail.com**
-
-- ⚡ Fun fact **Learn New Technology and Read Books**
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rana.ranaabobakar.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana-abobakar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-abobakar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RANA_ABOBAKAR_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranaabobakarit@gmail.com) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## 💫 My🌟BEST🌟 SKILLS
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abobakar-it">
-</a>
-<a href="https://github.com/abobakar-it?tab=followers"><img src="https://img.shields.io/github/followers/abobakar-it?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="center">
-<table align="center">
-  <tr>
- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-<br/>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
-      <br>MongoDB
-    </td>
-   
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="svelte" />
-      <br>GitHub-Action
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="gitlab" />
-      <br>GitLab
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Laravel" />
-      <br>Azure
-    </td>
-    <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
-      <br>Nginx
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-     <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
-      <br>Apache2
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="D3.js" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-   
-  </tr>
- 
-</table>
-</p>
-<hr>
-<br>
-</div>
-
-
-<br/>
+## 🌐 Connect With Me
 
 <p align="center">
-    <a href="https://github.com/abobakar-it/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abobakar-it streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abobakar-it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://linkedin.com/in/rana-abobakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:ranaabobakarit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://instagram.com/rana-abobakar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Github Stats" src="https://github-readme-stats.vercel.app/api?username=abobakar-it&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakar-it&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+# 🚀 Tech Stack
 
+## ⚡ Core Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,redux" />
+</p>
 
+## 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,materialui,vite" />
+</p>
 
+## ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+## ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,nginx,git,githubactions" />
+</p>
+
+## 🧪 Testing & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,bash,vscode" />
 <br/>
-<br/>
-<h1>✨ My Projects: <h1>
+<img src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest"/>
+<img src="https://img.shields.io/badge/Mocha-brown?style=for-the-badge"/>
+</p>
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abobakar-it&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abobakar-it&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakar-it&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abobakar-it&theme=radical&no-frame=true&row=1"/>
+</p>
+
+---
+# 🚀 Featured Projects
+<p align="center">
  <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-TypeScript&theme=tokyonight" />
 </a>
@@ -254,11 +157,15 @@
 <a href="https://github.com/abobakar-it/Learn-Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abobakar-it&repo=Learn-Java&theme=tokyonight" />
 </a>
-<br/>
-<br/>
-<a href="https://github.com/abobakar-it/github-readme-activity-graph"><img alt="abobakar-it Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abobakar-it&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
+# 📈 Activity Graph
 
-<br/>
-<br/>
+<img src="https://activity-graph.herokuapp.com/graph?username=abobakar-it&theme=react-dark"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abobakar-it" alt="abobakar-it" /></a> </p>
+---
+
+# 💡 Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
